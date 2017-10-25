@@ -1,3 +1,4 @@
+# A big dictionary
 res = {
   "search_metadata": {
     "count": 3,
@@ -10,6 +11,7 @@ res = {
     "query": "University+of+Michigan",
     "max_id": 536624519285583872
   },
+  # statuses
   "statuses": [
     {
       "contributors": None,
@@ -38,7 +40,7 @@ res = {
         "hashtags": [],
         "urls": []
       },
-      "in_reply_to_screen_name": None,
+      "in_reply_to_screen_name": Not None,  # I changed from None to Not None
       "in_reply_to_user_id": None,
       "retweet_count": 2014,
       "id_str": "536624519285583872",
@@ -692,17 +694,7 @@ res = {
         "default_profile": True,
         "is_translator": False
       },
-      "geo": None,
-      "in_reply_to_user_id_str": None,
-      "possibly_sensitive": False,
-      "lang": "en",
-      "created_at": "Sun Nov 23 20:53:48 +0000 2014",
-      "in_reply_to_status_id_str": None,
-      "place": None,
-      "metadata": {
-        "iso_language_code": "en",
-        "result_type": "recent"
-      }
+     # Deleted Bunch of things!
     }
   ]
 }
