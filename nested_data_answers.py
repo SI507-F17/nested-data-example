@@ -8,7 +8,7 @@ from twitter_data import *
 					  # HINT: the code below assumes we are using the first type of import: 'from twitter_data import *'
 
 def git_branch():
-	print('I change line 11.')
+	print('I add a git_branch function at line 11.')
 
 # Basic strategy:
 # ========================================================================================
