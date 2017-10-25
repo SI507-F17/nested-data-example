@@ -4,6 +4,9 @@
 #	- The * is a wildcard. It's telling python I want to import
 # 	  everything from the file twitter_data.py
 from twitter_data import *
+
+# I hate Twitter and refuse to get a Twitter.
+
 # What is the difference between the above statement and the following:
 # import wtitter_data # You will need to comment the import above and uncomment this one to experiment
 					  # HINT: the code below assumes we are using the first type of import: 'from twitter_data import *'
