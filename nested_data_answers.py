@@ -8,7 +8,7 @@ from twitter_data import *
 					  # HINT: the code below assumes we are using the first type of import: 'from twitter_data import *'
 
 
-
+# jarvm
 # Basic strategy:
 # ========================================================================================
 # 1. Check the type of the data structure
