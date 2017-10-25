@@ -115,9 +115,9 @@ from twitter_data import *
 # corresponding to the users who twitted
 # By answerin the questions above, you have already found
 # the first name
-# Can you iterate through the twitter data, so that you 
+# Can you iterate through the twitter data, so that you
 # access the other three names with a single print statement?
 # ----------------------------------------------------------
 #for i in range(len(res['statuses'])):
 #	print res['statuses'][i]['user']['name']
-# print "Hello World hahaha"
+# print (Hello World)
