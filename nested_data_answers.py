@@ -119,4 +119,4 @@ from twitter_data import *
 # access the other three names with a single print statement?
 # ----------------------------------------------------------
 #for i in range(len(res['statuses'])):
-#	print res['statuses'][i]['user']['name']
+#	print res['statuses'][i]['user']['name'] (((duvaljd)))
