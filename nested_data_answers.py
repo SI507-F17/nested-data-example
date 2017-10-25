@@ -79,7 +79,7 @@ def print_instructions():
 # ----------------------------------------------------------
 #print len(res['statuses'][0].keys())
 
-
+#this is a change
 # Are all the elements in the sequences under 'statuses' the same?
 # Are all the sequences nested under 'statuses' the same length'?
 # ----------------------------------------------------------
