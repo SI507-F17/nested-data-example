@@ -1,3 +1,5 @@
+print("Benedict Cumberbatch is Sherlock Holmes")
+
 # Import twitter_data.py in twitter_data in the current script
 # 	- Note the file name does not include the extension ('.py')
 #	- The * is a wildcard. It's telling python I want to import 
@@ -6,7 +8,7 @@ from twitter_data import *
 # What is the difference between the above statement and the following:
 # import wtitter_data # You will need to comment the import above and uncomment this one to experiment
 					  # HINT: the code below assumes we are using the first type of import: 'from twitter_data import *'
-print("Benedict Cumberbatch is Sherlock Holmes")
+
 
 
 # Basic strategy:
