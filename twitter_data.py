@@ -1,3 +1,6 @@
+#This is Twitter data
+print("Hello World")
+
 res = {
   "search_metadata": {
     "count": 3,
@@ -706,4 +709,3 @@ res = {
     }
   ]
 }
-
