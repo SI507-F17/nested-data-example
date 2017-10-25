@@ -27,15 +27,15 @@ from twitter_data import *
 
 # What is the type of the variable holding the twitter data?
 # ----------------------------------------------------------
-#print type(res) # prints a list of the keys in res
+print type(res) # prints a list of the keys in res
 
 
 # If it's a dictionary, what are its keys?
 # If it's a list, how many elements does it have?, and 
 # what is the type of its first element?
 # ----------------------------------------------------------
-#print res.keys()
-#print type(res['statuses']) 
+print res.keys()
+print type(res['statuses'])
 
 
 # Why the key "search_metadata" is not relevant 
