@@ -32,7 +32,7 @@ def print_instructions():
 # What is the type of the variable holding the twitter data?
 # ----------------------------------------------------------
 #print type(res) # prints a list of the keys in res
-
+print type(res)
 
 # If it's a dictionary, what are its keys?
 # If it's a list, how many elements does it have?, and
