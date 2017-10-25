@@ -38,7 +38,7 @@ from twitter_data import *
 #print type(res['statuses']) 
 
 
-# Why the key "search_metadata" is not relevant 
+# Why the key "search_metadata" is not relevant  & POTATOES!!!!
 # to our purposes?
 # ----------------------------------------------------------
 
