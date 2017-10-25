@@ -1,3 +1,6 @@
+##HELLO! THIS HAS BEEN CHANGED BY YWANGDR.
+import numpy
+
 # Import twitter_data.py in twitter_data in the current script
 # 	- Note the file name does not include the extension ('.py')
 #	- The * is a wildcard. It's telling python I want to import 
