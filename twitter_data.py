@@ -1,7 +1,7 @@
 
   "statuses": [
     {
-      "contributors": None,
+      "contributor1": None,
       "truncated": False,
       "text": "RT @mikeweber25: I'm decommiting from the university of Michigan thank you Michigan for the love and support I'll remake my decision at the\u2026",
       "in_reply_to_status_id": None,
@@ -43,9 +43,9 @@
         "retweeted": False,
         "coordinates": None,
         "entities": {
-          "symbols": [],
+          "symbols": [1,2,3],
           "user_mentions": [],
-          "hashtags": [],
+          "hashtags": [1,2,3],
           "urls": []
         },
         "in_reply_to_screen_name": None,

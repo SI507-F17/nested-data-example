@@ -1,9 +1,3 @@
-# What is the difference between the above statement and the following:
-# import wtitter_data # You will need to comment the import above and uncomment this one to experiment
-					  # HINT: the code below assumes we are using the first type of import: 'from twitter_data import *'
-
-
-
 # Basic strategy:
 # ========================================================================================
 # 1. Check the type of the data structure
