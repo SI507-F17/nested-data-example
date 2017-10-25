@@ -1,15 +1,4 @@
-res = {
-  "search_metadata": {
-    "count": 3,
-    "completed_in": 0.015,
-    "max_id_str": "536624519285583872",
-    "since_id_str": "0",
-    "next_results": "?max_id=536623674942439424&q=University%20of%20Michigan&count=3&include_entities=1",
-    "refresh_url": "?since_id=536624519285583872&q=University%20of%20Michigan&include_entities=1",
-    "since_id": 0,
-    "query": "University+of+Michigan",
-    "max_id": 536624519285583872
-  },
+
   "statuses": [
     {
       "contributors": None,
@@ -706,4 +695,3 @@ res = {
     }
   ]
 }
-
