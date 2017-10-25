@@ -7,7 +7,7 @@ from twitter_data import *
 # import wtitter_data # You will need to comment the import above and uncomment this one to experiment
 					  # HINT: the code below assumes we are using the first type of import: 'from twitter_data import *'
 
-
+print("Here's a line of code that works :)")
 
 # Basic strategy:
 # ========================================================================================
