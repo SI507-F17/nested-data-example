@@ -3,6 +3,7 @@
 # 	- Note the file name does not include the extension ('.py')
 #	- The * is a wildcard. It's telling python I want to import
 # 	  everything from the file twitter_data.py
+# baby this is what you came for
 from twitter_data import *
 # What is the difference between the above statement and the following:
 # import wtitter_data # You will need to comment the import above and uncomment this one to experiment
@@ -96,13 +97,7 @@ def print_instructions():
 #print res['statuses'][0]['user']
 
 
-# What are the keys associated to the dictionary 'user'?
-# ----------------------------------------------------------
-#print res['statuses'][0]['user'].keys()
 
-# How many keys those the dictionary 'user' has?
-# ----------------------------------------------------------
-#print len(res['statuses'][0]['user'].keys())
 
 
 # Is there a key that ressembles the username I am looking for?
@@ -114,13 +109,4 @@ def print_instructions():
 #print res['statuses'][0]['user']['name']
 
 
-# Since you know there are three tweets in the database
-# You also know there is an equal number of usernames
-# corresponding to the users who twitted
-# By answerin the questions above, you have already found
-# the first name
-# Can you iterate through the twitter data, so that you
-# access the other three names with a single print statement?
-# ----------------------------------------------------------
-#for i in range(len(res['statuses'])):
-#	print res['statuses'][i]['user']['name']
+
