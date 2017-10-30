@@ -11,6 +11,7 @@ from twitter_data import *
 def print_instructions():
     print("Just do it!")
     print("it again")
+    print("it again again")
 
 
 # Basic strategy:
